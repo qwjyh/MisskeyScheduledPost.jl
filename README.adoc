@@ -1,0 +1,8 @@
+= MisskeyScheduledPost
+:toc: left
+
+Relay server to schedule note.
+
+== How to deploy
+Write server url and token into `./.env`.
+
